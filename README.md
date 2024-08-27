@@ -10,7 +10,7 @@
 
 1. 在HBuilderX中打开克隆后的文件夹
 <p align="center">
-  <img src="pic/%E5%9B%BE%E7%89%871.png" width="50%" />
+  <img src="pic/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240827154936.png" width="50%" />
 </p>
 2. 直接点击运行：运行在内置浏览器即可（项目已经下载好了依赖）
 ![输入图片说明](pic/%E5%9B%BE%E7%89%872.png)
