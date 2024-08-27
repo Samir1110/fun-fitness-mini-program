@@ -1,0 +1,101 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path" : "pages/loading/loading",
+			"style" : 
+			{
+				"navigationBarTitleText" : "登录"
+			}
+		},
+		{
+			"path": "pages/loading/register/register",
+			"style": {
+				"navigationBarTitleText": "注册"
+			}
+		},
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "首页"
+			}
+		},
+		{
+			"path" : "pages/coach/coach/coach",
+			"style" : 
+			{
+				"navigationBarTitleText" : "教学"
+			}
+		},
+		{
+			"path" : "pages/community/community/community",
+			"style" : 
+			{
+				"navigationBarTitleText" : "商城"
+			}
+		},
+		{
+			"path" : "pages/me/my/my",
+			"style" : 
+			{
+				"navigationBarTitleText" : "我的"
+			}
+		},
+		{
+			"path" : "pages/me/updateInfo/updateInfo",
+			"style" : 
+			{
+				"navigationBarTitleText" : "修改信息"
+			}
+		},
+		{
+			"path" : "pages/coach/applyClass/applyClass",
+			"style" : 
+			{
+				"navigationBarTitleText" : "报名课程"
+			}
+		},
+		{
+			"path" : "pages/coach/myClass/myClass",
+			"style" : 
+			{
+				"navigationBarTitleText" : "我的课程"
+			}
+		}
+	],
+	"tabBar": {
+		"color": "#7A7E83",
+		"selectedColor": "#3cc51f",
+		"borderStyle": "black",
+		"backgroundColor": "#ffffff",
+		"list": [{
+			"pagePath": "pages/index/index",
+			"iconPath": "static/image/icon/hl-home.png",
+			"selectedIconPath": "static/image/icon/hl-home.png",
+			"text": "首页"
+		}, {
+			"pagePath": "pages/coach/coach/coach",
+			"iconPath": "static/image/icon/hl-coach.png",
+			"selectedIconPath": "static/image/icon/hl-coach.png",
+			"text": "教学"
+		},
+		{
+			"pagePath": "pages/community/community/community",
+			"iconPath": "static/image/icon/unlock_selected.png",
+			"selectedIconPath": "static/image/icon/unlock_selected.png",
+			"text": "商城"
+		},
+		{
+			"pagePath": "pages/me/my/my",
+			"iconPath": "static/image/icon/hl-me.png",
+			"selectedIconPath": "static/image/icon/hl-me.png",
+			"text": "我的"
+		}]
+	},
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"uniIdRouter": {}
+}
