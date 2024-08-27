@@ -9,7 +9,6 @@
 #### 配置
 
 1. 在HBuilderX中打开克隆后的文件夹
-![输入图片说明](pic/%E5%9B%BE%E7%89%871.png)
 <p align="center">
   <img src="pic/%E5%9B%BE%E7%89%871.png" width="50%" />
 </p>
@@ -25,11 +24,11 @@
  
 比如选择张三，输入账号密码
  <p align="center">
-  <img src="pic/%E5%9B%BE%E7%89%874.png" width="50%" />
+  <img src="pic/%E5%9B%BE%E7%89%874.png" width="30%" />
 </p>
 登录成功，进入主页面：
  <p align="center">
-  <img src="pic/%E5%9B%BE%E7%89%875.png" width="50%" />
+  <img src="pic/%E5%9B%BE%E7%89%875.png" width="30%" />
 </p>
 用户端项目配置成功！
 
